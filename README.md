@@ -1,5 +1,5 @@
 
-<![DSC_0785-4 AD AL-abd](https://github.com/user-attachments/assets/bb05c62b-7438-42a0-990a-d7b61b5e4fd8)
+
 
 
 ## Hi there 👋!
