@@ -10,13 +10,21 @@
 
 <body>
   <table cellspacing="20">
-    <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVOgzPIe3bL96slgfGPhBfNTdqaz4MIxTAKQ&usqp=CAU" alt="sinan linkedin photo" /></td>
+    <td><img src="https://media.licdn.com/dms/image/v2/C4D03AQGUSfK-diRSpA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1620125998090?e=1749686400&v=beta&t=cUOX4S9b_9agBcl2MD94RDiYVj9FdcrmWvq5Q1OThik" alt="sinan linkedin photo" /></td>
     <td>
-      <h1>Sinan Sonmez</h1>
-      <p><em>Business Development <strong>Manager </strong></em></p>
-      <p>I am the guy that you dont face at ranked matches</p>
+      <h1>Sinan Sönmez</h1>
+      <p><em>Sales & Sales Operation <strong>Managment </strong></em></p>
+      <p>Working on Cloud and Programing</p>
     </td>
   </table>
+   <hr>
+  <h3>Languages</h3>
+  <ul>
+    <li>Turkish</li>
+    <li>English</li>
+    <li>German</li>
+  </ul>
+  <hr>
   <hr>
   <h3>Education</h3>
   <ul>
@@ -37,18 +45,22 @@
     </thead>
     <tbody>
       <tr>
-        <td>Swgoh</td>
+        <td>Sales</td>
         <td>★★★★★</td>
       </tr>
       <tr>
-        <td>Yugioh</td>
+        <td>Logistic</td>
         <td>★★★★★</td>
+      </tr>
+        <tr>
+        <td>Programing</td>
+        <td>★★★</td>
       </tr>
     </tbody>
   </table>
 
   <hr>
-  <a href="contactme.html">How to reach me</a>
+  <a href="sin_sonmez@yahoo.com.tr">How to reach me via mail</a>
 </body>
 
 </html>
