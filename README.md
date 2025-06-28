@@ -10,7 +10,7 @@
 
 <body>
   <table cellspacing="20">
-    <td><img src="https://media.licdn.com/dms/image/v2/C4D03AQGUSfK-diRSpA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1620125998090?e=1749686400&v=beta&t=cUOX4S9b_9agBcl2MD94RDiYVj9FdcrmWvq5Q1OThik" alt="sinan linkedin photo" /></td>
+    <td><img src="https://media.licdn.com/dms/image/v2/D4D03AQHzA97wVU1kBA/profile-displayphoto-scale_400_400/B4DZeI9i8THkAg-/0/1750349526867?e=1756339200&v=beta&t=H8tx4eKT3X7dybMZgLJrr4rq_xPpR63b9IrvmAZKARk" alt="sinan linkedin photo" /></td>
     <td>
       <h1>Sinan Sönmez</h1>
       <p><em>Sales & Sales Operation <strong>Managment </strong></em></p>
