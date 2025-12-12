@@ -22,60 +22,7 @@ Tech-driven professional transitioning from sales and logistics into workflow au
   <li><strong>Languages:</strong> Turkish (Native), English (Advanced), German (Intermediate)</li>
 </ul>
 
-<<<<<<< HEAD
 <h2>Experience</h2>
-=======
-<body>
-  <table cellspacing="20">
-    <td><img src="https://avatars.githubusercontent.com/u/75527768?s=400&u=fe9a8b9ae940e01724699da8ed5fdbee7f98332f&v=4" alt="sinan github profile" /></td>
-    <td>
-      <h1>Sinan Sönmez</h1>
-      <p><em>Sales & Sales Operation <strong>Managment </strong></em></p>
-      <p>Working on Cloud and Programing</p>
-    </td>
-  </table>
-   <hr>
-  <h3>Languages</h3>
-  <ul>
-    <li>Turkish</li>
-    <li>English</li>
-    <li>German</li>
-  </ul>
-  <hr>
-  <hr>
-  <h3>Education</h3>
-  <ul>
-    <li>Kocaeli Universitesi</li>
-    <li>Maltepe Anadolu Lisesi</li>
-  </ul>
-  <hr>
-  <h3>Hobbies</h3>
-  <ol>
-    <li><a href="https://www.reddit.com/r/DuelLinks/">Yugioh</a></li>
-    <li>Star War Galaxy of Heroes</li>
-  </ol>
-  <hr>
-  <table cellspacing="10">
-    <thead>
-      <td>Skill Name</td>
-      <td>Power</td>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Sales</td>
-        <td>★★★★★</td>
-      </tr>
-      <tr>
-        <td>Logistic</td>
-        <td>★★★★★</td>
-      </tr>
-        <tr>
-        <td>Programing</td>
-        <td>★★★</td>
-      </tr>
-    </tbody>
-  </table>
->>>>>>> 1c1b3a6e613352e37154ec837977a735bcd1cd26
 
 <h3>CGI Deutschland – Logic App & Power Automate Developer (Oct 2025 – Present)</h3>
 <ul>
